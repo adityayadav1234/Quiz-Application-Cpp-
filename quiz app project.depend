@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1635263329 source:e:\sharma coaching\quiz app\2.0\quiz app project\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1635263411 e:\sharma coaching\quiz app\2.0\quiz app project\conio2.h
+	<conio.h>
+	<windows.h>
+
+1643801063 source:e:\sharma coaching\quiz app\2.0\quiz app project\main.cpp
+	<iostream>
+	"conio2.h"
+	"quizz.h"
+
+1643822922 source:e:\sharma coaching\quiz app\2.0\quiz app project\quizz.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	"quizz.h"
+	"conio2.h"
+	<vector>
+	<cstdlib>
+	<time.h>
+
+1643804292 e:\sharma coaching\quiz app\2.0\quiz app project\quizz.h
+	<string>
+	<vector>
+
+1635263329 source:e:\sharma sir\quiz app\2.0\new folder\quiz app project\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1635263411 e:\sharma sir\quiz app\2.0\new folder\quiz app project\conio2.h
+	<conio.h>
+	<windows.h>
+
+1643801063 source:e:\sharma sir\quiz app\2.0\new folder\quiz app project\main.cpp
+	<iostream>
+	"conio2.h"
+	"quizz.h"
+
+1643804292 e:\sharma sir\quiz app\2.0\new folder\quiz app project\quizz.h
+	<string>
+	<vector>
+
+1644500694 source:e:\sharma sir\quiz app\2.0\new folder\quiz app project\quizz.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	"quizz.h"
+	"conio2.h"
+	<vector>
+	<cstdlib>
+	<time.h>
+
